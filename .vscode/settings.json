@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "editor.find.addExtraSpaceOnTop": true,
+    "diffEditor.codeLens": false,
+    "editor.find.seedSearchStringFromSelection": "always",
+    "accessibility.verbosity.comments": true
+}
